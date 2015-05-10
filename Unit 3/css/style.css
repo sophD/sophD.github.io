@@ -1,0 +1,47 @@
+body {
+	color: #2ECCFA;
+	background-color: #6699ff
+}
+
+img {
+	width: 50%;
+	margin-left: 135px;
+}
+
+h1 {
+	text-align: center;
+	font-family: Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+h3 {
+	font-weight: normal;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+#slogan {
+	font-style: italic;
+}
+.wrapper {
+	background: #fff;
+	width: 550px;
+	opacity: .9;
+	padding: 20px;
+	margin: 0 auto;
+}
+
+hr {
+	width: 250px;
+}
+
+.services {
+	text-align: left;
+}
+
+#contact {
+	text-align: center;
+}
